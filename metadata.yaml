@@ -1,0 +1,24 @@
+_repo: Snowbound-for-Christmas_53654
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacKenzie, Edna I.
+    gutenberg_agent_id: '46895'
+    url: http://www.gutenberg.org/2009/agents/46895
+description: ''
+gutenberg_issued: '2016-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53654'
+  lccn: tmp96010275
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas plays'
+- !lcsh 'Drama'
+- !lcc 'PS'
+- GITenberg
+title: Snowbound for Christmas
+url: http://www.gutenberg.org/ebooks/53654
